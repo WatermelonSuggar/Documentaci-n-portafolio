@@ -1,58 +1,288 @@
-### Estructura de documentación
+# UX/UI
 
-## SPECTRAL TALES
-
+## CINEBITES
 ### Entrada
-Spectral Tales
-Experiencia narrativa interactiva · Medellín · 2024
+CineBites
+UX/UI Mobile App · Product Design · 2024
 
-Proyecto interactivo que explora cómo resignificar la narrativa cultural de Medellín mediante una experiencia donde los usuarios no consumen información turística — interactúan con las mentes que imaginaron su transformación cultural.
+Aplicación móvil diseñada para permitir a los usuarios recrear recetas vistas en películas mediante una experiencia guiada, accesible y centrada en la cocina cotidiana.
 
 ### Rol
 
-Directora Creativa · Narrative Designer · Interaction Designer
+UX Research · UX/UI Design · Prototyping
 
-Responsable de la conceptualización del proyecto, diseño de personajes, arquitectura narrativa y dirección creativa del prototipo interactivo.
+Responsable de:
+
+Investigación de usuarios
+
+Arquitectura de información
+
+Wireframes
+
+Diseño visual de interfaz
+
+Duración: 6 semanas
+Herramientas: Figma, FigJam
+Metodología: Design Thinking
 
 ### Problema
 
-Medellín recibió más de 1.4 millones de turistas en 2023. Parte de ese turismo se construye sobre narrativas asociadas a violencia y narcotráfico, generando una experiencia basada en el consumo del pasado traumático de la ciudad.
+Las escenas gastronómicas del cine inspiran a los usuarios, pero no existen plataformas que traduzcan esa inspiración en recetas fáciles de ejecutar.
 
-Ese mismo año se registraron:
+Principales barreras:
 
-más de 400 hurtos a turistas
+Falta de tiempo
 
-43 homicidios de visitantes extranjeros
+Costos
 
-Un contexto donde el visitante se convierte simultáneamente en consumidor y víctima de esa narrativa.
+Complejidad percibida
 
-La pregunta de diseño fue:
+Falta de guías claras
 
-¿Cómo crear una experiencia que compita con ese relato sin replicar su lógica sensacionalista?
+Insight:
 
-### Decisión de diseño
+Los usuarios quieren cocinar recetas de películas, pero necesitan experiencias simplificadas y visuales.
 
-Propuse un sistema donde el usuario no recibe información turística tradicional, sino que interactúa con representaciones narrativas de figuras clave de la transformación cultural de Medellín.
+### Investigación
 
-La experiencia utiliza lenguajes simbólicos contemporáneos (tarot, arquetipos, narrativa interactiva) para conectar con nuevas audiencias desde una perspectiva cultural.
+Investigación con 50 usuarios:
 
-### Sistema
+Encuestas: 44
 
-Experiencia interactiva compuesta por:
+Entrevistas: 6
 
-Personajes con narrativa propia
+Hallazgos:
 
-Geolocalización de hitos culturales
+Preferencia por instrucciones visuales
 
-Realidad aumentada
+Interés en recetas simplificadas
 
-IA para síntesis de voz y exploración visual
+Valoración de experiencias divertidas
+
+También se realizó benchmarking de apps de cocina.
+
+### Objetivo
+
+Diseñar una app que permita:
+
+Descubrir recetas de películas
+
+Cocinar con instrucciones claras
+
+Reducir fricción durante el proceso
+
+Principio UX:
+
+La experiencia debía acompañar al usuario mientras cocina, no solo informarlo.
+
+### Proceso
+
+Fases aplicadas:
+
+Empatizar:
+Investigación usuarios.
+
+Definir:
+Identificación de necesidades y pain points.
+
+Idear:
+Definición de funcionalidades clave.
+
+Prototipar:
+Wireframes y prototipos.
+
+Testear:
+Validación con usuarios.
+
+### Solución
+
+Se diseñó una app con:
+
+Buscador por película
+
+Filtros por dificultad
+
+Recetas rápidas
+
+Sistema de descubrimiento random
+
+Comunidad de usuarios
+
+Se desarrollaron:
+
+User flows
+
+Wireframes media fidelidad
+
+Prototipo high fidelity
+
+Resultado
+
+Prototipo funcional con:
+
+Navegación clara
+
+Jerarquía visual optimizada
+
+Flujos simplificados
+
+Mejor descubrimiento de recetas
+
+### Aprendizajes
+
+El proyecto fortaleció:
+
+Investigación UX
+
+Traducción de insights en decisiones
+
+Iteración basada en testing
+
+Balance entre creatividad y usabilidad
+
+## BIKER
+### Entrada
+
+Biker – UX Redesign
+UX/UI Case Study · Mobility App · 2024
+
+Rediseño conceptual de una app de bicicletas compartidas enfocado en mejorar la experiencia digital y reducir fricciones en el uso del sistema.
+
+### Rol
+
+UX Research · UX/UI Design · Prototyping
+
+Responsable de:
+
+Análisis UX
+
+Rediseño de flujos
+
+Wireframes
+
+UI final
+
+Duración: 4 semanas
+Herramientas:
+
+Figma
+
+FigJam
+
+Metodología:
+
+Design Thinking
+
+### Problema
+
+El sistema de bicicletas funcionaba correctamente a nivel físico, pero la app generaba fricciones que afectaban su adopción.
+
+Problemas detectados:
+
+Información incorrecta de disponibilidad
+
+Dificultad para ubicar estaciones
+
+Falta de reservas
+
+Confusión de tarifas
+
+Proceso lento de desbloqueo
+
+Insight:
+
+La fricción principal estaba en la experiencia digital, no en el servicio.
+
+### Investigación
+
+Se realizó:
+
+Análisis del brief
+
+Benchmarking de apps de movilidad
+
+Identificación de pain points
+
+Hallazgos principales:
+
+Usuarios necesitan:
+
+Información en tiempo real
+
+Claridad en tarifas
+
+Procesos rápidos
+
+### Objetivo
+
+Rediseñar la experiencia para:
+
+Reducir fricción
+
+Mejorar claridad
+
+Facilitar acceso al servicio
+
+Principio UX:
+
+La app debía funcionar bien en contextos de prisa y movilidad.
+
+### Proceso
+
+Fases:
+
+Empatizar:
+Análisis del problema.
+
+Definir:
+How Might We.
+
+Idear:
+Definición de mejoras UX.
+
+Prototipar:
+Wireframes.
+
+Testear:
+Evaluación de flujos.
+
+### Solución
+
+Se propusieron mejoras como:
+
+Mapa en tiempo real
+
+Indicadores claros de bicicletas
+
+Sistema de reservas
+
+Tarifas visibles
+
+Flujo rápido de desbloqueo
 
 ### Resultado
 
-Desarrollo de un prototipo funcional con tres personajes activos y más de ocho puntos geolocalizados, disponible en español e inglés.
+Rediseño con:
 
-El proyecto demuestra cómo el diseño interactivo puede funcionar como herramienta para resignificar narrativas urbanas mediante experiencia directa.
+Navegación simplificada
+
+Mejor visualización de información
+
+Reducción de pasos en tareas clave
+
+Mayor claridad del sistema
+
+### Aprendizajes
+
+El proyecto fortaleció:
+
+Capacidad de detectar fricciones UX
+
+Rediseño de productos existentes
+
+Pensamiento centrado en usuario
+
+Mejora de sistemas digitales
 
 ______________________________
 
