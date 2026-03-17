@@ -1,4 +1,4 @@
-# UX/UI
+# UX/UI desig
 
 ## CINEBITES
 ### Entrada
@@ -285,6 +285,7 @@ Pensamiento centrado en usuario
 Mejora de sistemas digitales
 
 ______________________________
+# Experiencias interactivas / Interactive experience design
 
 ## SANCTA LUMINA
 
