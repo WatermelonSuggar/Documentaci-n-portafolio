@@ -1,4 +1,4 @@
-# UX/UI desig
+# UX/UI desing
 
 ## CINEBITES
 ### Entrada
