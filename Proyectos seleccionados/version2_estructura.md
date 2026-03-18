@@ -294,6 +294,60 @@ Mejora de sistemas digitales
 ______________________________
 # Experiencias interactivas / Interactive experience design
 
+SPECTRAL TALES
+Entrada
+
+Spectral Tales
+Experiencia narrativa interactiva · Medellín · 2024
+
+Proyecto interactivo que explora cómo resignificar la narrativa cultural de Medellín mediante una experiencia donde los usuarios no consumen información turística — interactúan con las mentes que imaginaron su transformación cultural.
+
+Rol
+
+Directora Creativa · Narrative Designer · Interaction Designer
+
+Responsable de la conceptualización del proyecto, diseño de personajes, arquitectura narrativa y dirección creativa del prototipo interactivo.
+
+Problema
+
+Medellín recibió más de 1.4 millones de turistas en 2023. Parte de ese turismo se construye sobre narrativas asociadas a violencia y narcotráfico, generando una experiencia basada en el consumo del pasado traumático de la ciudad.
+
+Ese mismo año se registraron:
+
+más de 400 hurtos a turistas
+
+43 homicidios de visitantes extranjeros
+
+Un contexto donde el visitante se convierte simultáneamente en consumidor y víctima de esa narrativa.
+
+La pregunta de diseño fue:
+
+¿Cómo crear una experiencia que compita con ese relato sin replicar su lógica sensacionalista?
+
+Decisión de diseño
+
+Propuse un sistema donde el usuario no recibe información turística tradicional, sino que interactúa con representaciones narrativas de figuras clave de la transformación cultural de Medellín.
+
+La experiencia utiliza lenguajes simbólicos contemporáneos (tarot, arquetipos, narrativa interactiva) para conectar con nuevas audiencias desde una perspectiva cultural.
+
+Sistema
+
+Experiencia interactiva compuesta por:
+
+Personajes con narrativa propia
+
+Geolocalización de hitos culturales
+
+Realidad aumentada
+
+IA para síntesis de voz y exploración visual
+
+Resultado
+
+Desarrollo de un prototipo funcional con tres personajes activos y más de ocho puntos geolocalizados, disponible en español e inglés.
+
+El proyecto demuestra cómo el diseño interactivo puede funcionar como herramienta para resignificar narrativas urbanas mediante experiencia directa.
+
 ## SANCTA LUMINA
 
 ### Entrada
