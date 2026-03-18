@@ -1,8 +1,16 @@
 # Estructura de documentación
 
+## Biografía
+- Soy diseñadora de experiencias en la intersección entre cultura, narrativa y tecnología. Me interesa abordar problemáticas donde el diseño permite traducir información, comportamientos y contextos en experiencias claras, útiles y centradas en las personas.
+  
+  Tengo experiencia en investigación, conceptualización y prototipado de experiencias interactivas, así como en el diseño de interfaces UX/UI y comunicación visual para proyectos digitales. 
+  
+  Aporto desde la ingeniería en diseño como puente entre investigación, comunicación, interacción y tecnología.
+
+
 ## SPECTRAL TALES — Caso de estudio
 
-## Entrada
+### Entrada
 Spectral Tales
 Experiencia narrativa interactiva · Medellín · WonderWaves Studio
 El turismo en Medellín se construye sobre el morbo y la violencia del pasado. Diseñamos un sistema donde los usuarios no consumen información sobre la ciudad — encuentran las presencias que la soñaron.
